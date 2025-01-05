@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "Agus Rudi Setiawan",
+        "email": "rudi1945@gmail.com",
+        "deskripsi": "Mahasiswa Teknik Informatika",
+        "timestamp": "2025-01-05 13:11:26"
+    },
+    {
+        "nama": "Ananda Muhamad Prasetyo",
+        "email": "tyobro440@gmail.com",
+        "deskripsi": "Mahasiswa TIF UNIPMA",
+        "timestamp": "2025-01-05 13:12:55"
+    },
+    {
+        "nama": "Bryan Malvino",
+        "email": "bryan1945@gmail.com",
+        "deskripsi": "Mahasiswa TI 5D",
+        "timestamp": "2025-01-05 13:13:37"
+    },
+    {
+        "nama": "Nur Aulia",
+        "email": "nuraulia19@gmail.com",
+        "deskripsi": "Mahasiswa",
+        "timestamp": "2025-01-05 13:14:04"
+    },
+    {
+        "nama": "Syahrul Reza",
+        "email": "reza1000@gmail.com",
+        "deskripsi": "Mahasiswa TIF ",
+        "timestamp": "2025-01-05 13:14:30"
+    }
+]

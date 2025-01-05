@@ -2,5 +2,9 @@
     {
         "username": "admin",
         "password": "12345678"
+    },
+    {
+        "username": "Zeus",
+        "password": "$2y$10$1\/wKo0GeiqJHc5dJHmiYCOpNk1iCvl4Y1funed2AtiRtvVa2boFkq"
     }
 ]
