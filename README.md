@@ -39,38 +39,17 @@ Website **Profil Tim 5** adalah sebuah aplikasi web sederhana yang memungkinkan 
 
 ## Instalasi
 
-1. Clone repositori ini ke direktori lokal Anda:
-   ```bash
-   git clone https://github.com/username/profil-tim5.git
+Berikut cara instalasi
+1.	Taruh folder web pada direktori brikut
+
+2.	Buka Xampp dan Start Apache
+
+3. Jalankan server lokal Anda dan akses aplikasi melalui browser:
    ```
-
-2. Pastikan Anda memiliki server lokal (seperti XAMPP, WAMP, atau Laragon).
-
-3. Pindahkan folder proyek ke direktori server lokal Anda (misalnya, `htdocs` untuk XAMPP).
-
-4. Jalankan server lokal Anda dan akses aplikasi melalui browser:
+   http://localhost/dtim5/index.php
    ```
-   http://localhost/profil-tim5/
-   ```
-
-## Struktur Direktori
-
-```
-profil-tim5/
-├── assets/
-│   ├── css/
-│   │   └── styles.css       # File CSS untuk styling
-│   ├── nav/
-│   │   └── navbar.html      # Navigasi
-│   └── tim5-profile.jpg     # Gambar profil tim
-├── data.json                # Penyimpanan data profil
-├── profil.php               # Halaman utama untuk menampilkan profil
-├── tambah-data.php          # Halaman untuk menambahkan data
-├── edit-profil.php          # Halaman untuk mengedit profil
-├── hapus-profil.php         # Halaman untuk menghapus profil
-├── login.html               # Halaman login
-└── README.md                # Dokumentasi
-```
+4.	Web pun siap digunakan
+   
 
 ## Cara Penggunaan
 
@@ -79,14 +58,6 @@ profil-tim5/
 3. **Mengedit Profil**: Klik tombol "Edit" di daftar profil, lakukan perubahan, dan simpan.
 4. **Menghapus Profil**: Klik tombol "Hapus" pada profil yang ingin dihapus.
 5. **Pencarian**: Gunakan kolom pencarian untuk menemukan anggota tim berdasarkan nama.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE). Anda bebas untuk menggunakan, memodifikasi, dan mendistribusikan proyek ini selama mengikuti ketentuan lisensi.
-
-## Kontribusi
-
-Kami sangat menghargai kontribusi Anda untuk meningkatkan proyek ini. Silakan buat pull request atau laporkan masalah melalui [Issue Tracker](https://github.com/username/profil-tim5/issues).
 
 ---
 
